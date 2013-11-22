@@ -1,0 +1,23 @@
+{
+  "name": "ember-pager",
+  "version": "0.0.1",
+  "description": "Scrolling and link-based pagination for Ember.js",
+  "scripts": {
+    "build": "coffee -o dist/ *.coffee",
+    "watch": "coffee -w -o dist/ *.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aexmachina/ember-pager.git"
+  },
+  "keywords": [
+    "ember.js",
+    "pagination"
+  ],
+  "author": "Simon Wade <simon.wade@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "~1.6.3"
+  }
+}
